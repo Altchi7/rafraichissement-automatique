@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="120"> <!-- Rafraîchissement automatique toutes les 2 minutes -->
+    <title>Page Rafraîchie Automatiquement</title>
+</head>
+<body>
+    <h1>Bienvenue sur ma page avec rafraîchissement automatique</h1>
+    <p>Cette page se rafraîchit toutes les 10 secondes.</p>
+</body>
+</html>
